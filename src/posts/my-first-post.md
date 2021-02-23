@@ -12,6 +12,8 @@ tags:
 ---
 # Olá Arminda
 
+![](/static/img/icon.svg)
+
 ## This is a Heading h2
 
 ###### This is a Heading h6
